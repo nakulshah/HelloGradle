@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-02-07T06:48:37" hostname="ILHHHPL57" time="0.001">
+  <properties/>
+  <testcase name="testMethod" classname="LibraryTest" time="0.001"/>
+  <system-out><![CDATA[Hello Hello Gradle
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
